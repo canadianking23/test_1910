@@ -8,6 +8,12 @@ git config  --global user.name  "тут ваше ім'я"
 git config  --global user.email  "тут ваш email"
 git config  --global color.ui  true
 
+git config  --global user.name  zelinskyikyrylo
+git config  --global user.email  zelinskyikyrylo@gmail.com
+git config  --global color.ui  true
+
+
+
 git config --global core.editor vim
 
 або для VSC 
