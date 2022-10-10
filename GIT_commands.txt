@@ -39,3 +39,7 @@ i  - режим редагування тексту
 ESC - режим введення команд
 :wq  - зберегти та вийти з редактора
 :q!  - вийти з редактора без дозрівання
+
+https://stackoverflow.com/questions/30024353/how-to-use-visual-studio-code-as-default-editor-for-git
+git config --global core.editor "code -w"
+
